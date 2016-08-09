@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
 
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         if (requestCode == REQUEST_ENABLE_BT) {
-            btBt.setBackgroundResource(R.drawable.ic_bluetoothON);
+            btBt.setBackgroundResource(R.drawable.ic_bluetooth_on);
 
         }
 

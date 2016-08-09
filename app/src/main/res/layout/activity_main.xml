@@ -22,7 +22,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:id="@+id/btnServer"
-            android:background="@drawable/ic_serverOFF"
+            android:background="@drawable/ic_server_off"
             android:layout_marginLeft="15dp"
             android:onClick="ativarServidor"/>
 
@@ -30,7 +30,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:id="@+id/btnClient"
-            android:background="@drawable/ic_clienteOFF"
+            android:background="@drawable/ic_cliente_off"
             android:layout_marginLeft="15dp"
             android:onClick="ativarCliente"/>
 
@@ -38,7 +38,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:id="@+id/btnBT"
-            android:background="@drawable/ic_bluetoothOFF"
+            android:background="@drawable/ic_bluetooth_off"
             android:layout_marginLeft="15dp"
             android:onClick="ativarBT"/>
 
@@ -65,7 +65,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:id="@+id/send"
-            android:background="@drawable/sendOFF"
+            android:background="@drawable/send_off"
             android:layout_marginLeft="15dp"
             android:onClick="enviar"/>
 
